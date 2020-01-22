@@ -1,0 +1,6 @@
+﻿  Main.cpp
+e:\onedrive\郎酒\communication\communication\main.cpp(20): warning C4101: “cc”: 未引用的局部变量
+  Communication.cpp
+  正在生成代码...
+  Communication.vcxproj -> E:\OneDrive\郎酒\Communication\x64\Debug\Communication.exe
+  Communication.vcxproj -> E:\OneDrive\郎酒\Communication\x64\Debug\Communication.pdb (Full PDB)
